@@ -1,0 +1,9 @@
+create a random number
+idk but store in an array
+store in database
+user inputs number
+idk if to put user input in an array (most likely)
+then check if the random number includes the user inputs (number by number)
+create correct position and false postion to  be boolean
+run a loop to check if user input = random number by position
+for every correct position, +1 to correct position and do the same if w
