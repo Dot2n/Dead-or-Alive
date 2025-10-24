@@ -38,7 +38,7 @@ npm run dev
 ```
 ### 3. Frontend setup (inside myReactApp)
 ```bash
-cd myReactApp
+cd my-react-app
 npm install
 ```
 
