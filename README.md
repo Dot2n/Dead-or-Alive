@@ -1,4 +1,4 @@
-# DeadOrALlive 🎯
+# Dead-or-Alive 🎯
 
 A full-stack guessing game built with **Express (Node.js)** for the backend and **React (Vite)** for the frontend.  
 Players try to guess a 4-digit number with feedback on “dead” (correct digit + position) and “injured” (correct digit, wrong position).
@@ -18,7 +18,7 @@ Players try to guess a 4-digit number with feedback on “dead” (correct digit
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Dot2n/deadOrALlive.git
+git clone https://github.com/Dot2n/Dead-or-Alive.git
 cd deadOrALlive
 
 ```
