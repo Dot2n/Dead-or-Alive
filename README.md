@@ -18,7 +18,7 @@ Players try to guess a 4-digit number with feedback on “dead” (correct digit
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/deadOrALlive.git
+git clone https://github.com/Dot2n/deadOrALlive.git
 cd deadOrALlive
 
 ```
